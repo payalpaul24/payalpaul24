@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <p align='left'>
+  <a href="<a href="https://www.linkedin.com/in/payal-paul-44a8b81ba/">
+    <img src="https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=linkedin&logoColor=ffffff" />
+  </a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/payal.paul.75470">
     <img src="https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff" />
   </a>&nbsp;&nbsp;
