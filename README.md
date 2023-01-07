@@ -1,5 +1,5 @@
-<iframe src="https://giphy.com/embed/2i7jspnRBYgg6v4Oki" width="480" height="317" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyber-cybersecurity-cybersecurityassessment-2i7jspnRBYgg6v4Oki">via GIPHY</a></p>
-![Front-End Developer (1)](https://giphy.com/gifs/cyber-cybersecurity-cybersecurityassessment-2i7jspnRBYgg6v4Oki)
+<img src="https://giphy.com/gifs/cyber-cybersecurity-cybersecurityassessment-2i7jspnRBYgg6v4Oki" />
+
 ### Here is 👋 What I'm Working On !! 👋
 
 <!--
