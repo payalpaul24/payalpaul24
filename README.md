@@ -2,6 +2,8 @@
 
 ### Here is 👋 What I'm Working On !! 👋
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <!--
 **payalpaul24/payalpaul24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
